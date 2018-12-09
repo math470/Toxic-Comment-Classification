@@ -1,2 +1,2 @@
 # Toxic-Comment-Classification
-Text classification project
+Natural Language Processing (NLP) project
