@@ -11,7 +11,7 @@ This repository has the following files:
       
      1. [Part2: GloVe + LSTM in Keras](https://github.com/math470/Toxic-Comment-Classification/blob/master/Toxic%20Comment%20Classification%20Part2%20GloVe%20Embedding%20%2B%20LSTM.ipynb) Toxic Comment Classification Part2 GloVe Embedding + LSTM.ipynb
     
-        - I tried Deep Learning models with GloVe word embeddings and LSTM on the Keras framework (AUC: 0.9704)
+        - I tried Deep Learning models with GloVe word embeddings and LSTM on the Keras framework (Multi-tasking AUC: 0.9704, Non multi-tasking AUC: .9755)
         - I improved the performance using some simple ensemble methods (AUC: 0.9770)
       
      1. [Part3: More Cleaning](https://github.com/math470/Toxic-Comment-Classification/blob/master/Toxic%20Comment%20Classification%20Part3%20More%20Cleaning.ipynb) Toxic Comment Classification Part3 More Cleaning.ipynb 
