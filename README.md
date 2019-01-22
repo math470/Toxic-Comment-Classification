@@ -1,9 +1,6 @@
-Welcome to my repository for the Toxic Comment Classification project!! 
-
-This is a Natural Language Processing (NLP) project with 3 parts . 
+Welcome to my repository for the Toxic Comment Classification project!! This is a Natural Language Processing (NLP) project with 3 parts. 
 
 This repository has the following files:
-
 
 1. Jupyter Notebooks: These contain python codes and detailed descriptions for each part of project.
     1. [Part1: Tfidf + Logistic Regression](https://github.com/math470/Toxic-Comment-Classification/blob/master/Toxic%20Comment%20Classification%20Part1%20Tfidf%20%2B%20Logistic%20Regression.ipynb) 
