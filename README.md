@@ -17,7 +17,7 @@ This repository has the following files:
      1. [Part3: More Cleaning](https://github.com/math470/Toxic-Comment-Classification/blob/master/Toxic%20Comment%20Classification%20Part3%20More%20Cleaning.ipynb) Toxic Comment Classification Part3 More Cleaning.ipynb 
     
         - I transformed the hidden bad words found in Part1 into actual words.
-        - After cleaning, the simple logistic regression model performed even better than the ensemble model in Part2 (AUC: 0.9778).
+        - After cleaning, the simple logistic regression model performed even better than the best ensemble model found in Part2 (AUC: 0.9778).
 
 1. [Final report:]() The final summary report will be added later. 
 
